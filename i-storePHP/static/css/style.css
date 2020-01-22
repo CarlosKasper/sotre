@@ -1,0 +1,51 @@
+body{
+	padding-top: 54px; 
+	font-family: 'Raleway', sans-serif;
+}
+
+html,body{
+	height: 100%;
+}
+
+.navbar{
+	background: white;
+	box-shadow:0 2px 8px -3px rgba(0,0,0,0.2);
+
+}
+.navbar-light .navbar-toggler{
+	border: 0;
+}
+.box-container{
+	box-shadow: 0px 5px 8px 0px #45767429;
+    padding: 30px;
+    border-radius: .25rem;
+    width: 93%;
+    background: white;
+
+}
+.logo-login{
+	width: 160px;
+	margin: 0 auto 20px auto ;
+	display: block;
+}
+
+.bg-login{
+	background: #e3f6f5;
+}
+.alinhamento{
+	text-align: center;
+}
+.form-group{
+	margin-top: 30px;
+}
+.btn-cor{
+	background: #179785;
+	border: none;
+	color: white;
+}
+.media.box-container{
+	width: 100%;
+}
+.margin-item{
+	margin: 15px auto 15px auto;
+}
